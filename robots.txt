@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin-3f8k2x.html
+
+Sitemap: https://30m.co.kr/sitemap.xml
